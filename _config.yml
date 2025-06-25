@@ -19,7 +19,7 @@ email: minerlemur@gmail.com
 description: This page is to help employers and strangers get to know me and my projects 
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://thinq8.github.io"
-author: thinq8
+author: 
   name: Liam Sandy
   twitter:
   picture:
