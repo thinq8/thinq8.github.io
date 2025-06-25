@@ -3,8 +3,6 @@ title: Machine-Learning Sentiment Analysis Pipeline
 order: 1
 ---
 
-## Machine-Learning Sentiment Analysis Pipeline
-
 As part of a **four-intern team**, I helped design and deploy a machine-learning–driven ingestion pipeline that streams **10 000+ customer reviews** into the company’s cloud environment each month.
 
 ### Key Contributions
