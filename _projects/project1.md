@@ -1,5 +1,5 @@
 ---
-title: achine-Learning Sentiment Analysis Pipeline
+title: Machine-Learning Sentiment Analysis Pipeline
 order: 1
 ---
 
